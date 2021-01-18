@@ -2,9 +2,7 @@
 ## Hello! I'm Hayden! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<img align="left" alt="Hayden Tv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
-[Subscribe on yt?](https://www.youtube.com/channel/UCOxWCuSxyiLbaN4TDQx82sg)
 
 
 ---

@@ -13,4 +13,4 @@
   </a>
 </p>
 
-[! [Hxpeless github stats](https://github-readme-stats.vercel.app/api?username=hxpelessjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Hxpeless github stats](https://github-readme-stats.vercel.app/api?username=hxpelessjs)](https://github.com/anuraghazra/github-readme-stats)

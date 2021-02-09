@@ -6,10 +6,10 @@
 
 <p align="left"> 
   <a href="https://github.com/syui/syui/">
-    <img src="https://komarev.com/ghpvc/?username=syui" alt="syui" />
+    <img src="https://komarev.com/ghpvc/?username=" alt="syui" />
   </a>
-  <a href="https://github.com/syui">
-    <img height="20" src="https://img.shields.io/github/followers/syui?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/hxpelessjs">
+    <img height="20" src="https://img.shields.io/github/followers/hxpelessjs?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
